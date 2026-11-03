@@ -12,3 +12,5 @@ arduino的LovyanGFX库 https://github.com/lovyan03/LovyanGFX
 MIT 可自由使用
 # 致谢
 感谢Evgeniy - Shitov提供的代码参考 https://github.com/EvgeniyNv86/CYD-ESP32-2432S028
+# 项目例子视频
+https://www.bilibili.com/video/BV1f74A6rEDX/
