@@ -1,0 +1,12 @@
+尘埃拉力赛2.0的Dashboard仪表盘项目  
+Dashboard project for DiRT Rally 2.0  
+  
+基于ESP32 3.5英寸液晶屏开发板 CYD-ESP32-3248S035R  
+Based on an ESP32 3.5-inch LCD development board CYD-ESP32-3248S035R  
+  
+接收游戏UDP数据包并显示到仪表盘  
+Receives UDP data packets from the game and displays them on the dashboard  
+  
+显示档位、转速、四轮刹车片温度、四轮悬挂实时行程、计时、赛段完成百分比等信息  
+Displays information such as gear, engine speed, brake temperatures for all four wheels, real-time suspension travel for all four wheels, timing, and Stage Progress (%)  
+  
